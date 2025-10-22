@@ -23,4 +23,4 @@ residuo = dividendo % divisor
 
 print(f"Divisió: {dividendo}/{divisor}")
 print(f"Quocient: {cociente}")
-print(f"Residu: {residuo}") 
+print(f"Residu: {residuo}")
