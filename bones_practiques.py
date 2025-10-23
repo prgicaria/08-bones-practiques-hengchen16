@@ -7,8 +7,7 @@ Institut Icària
 Programació - 1r Batxillerat - Curs 2025-26
 
 El programa et demana un dividend i un divisor per després poder calcualar
-el quocient i el residu.
-'''
+el quocient i el residu.'''
 
 __author__ = "Heng Chen"
 __email__ = "hchen@instituticaria.cat"
